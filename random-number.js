@@ -3,4 +3,5 @@ function rand(){
    }
    console.log(rand());
    
+   module.exports = rand();
    
